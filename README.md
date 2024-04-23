@@ -28,3 +28,7 @@ Enter your name and the language you want to translate to!
 
 ### Supported languages
 English, Spanish, French, German, Italian, Japanese, Russian, Chinese, Arabic, Hindi
+
+
+#### Sample output
+![Screenshot 2024-04-23 at 8 50 51 PM](https://github.com/krunal-lia/hola/assets/29747181/a7e74a1c-45f8-40be-a0af-af00c713ff14)
