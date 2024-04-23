@@ -3,7 +3,7 @@
 ## How to use
 
 ### Step 1: 
-`git clone github.com/krunal-lia/hola`
+`git clone git@github.com:krunal-lia/hola.git`
 
 ### Step 2:
 `go mod download`
