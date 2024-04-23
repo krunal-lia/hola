@@ -22,7 +22,7 @@ docker-compose up
 `go run worker/main.go`
 
 ### Step 4:
-`go run worker/start.go`
+`go run start/main.go`
 
 Enter your name and the language you want to translate to!
 
