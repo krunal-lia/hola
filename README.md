@@ -20,7 +20,7 @@ docker-compose up
 
 ### Step 4:
 ```
-cd ..
+// open in terminal and go to hola directory
 go run worker/main.go
 ```
 
