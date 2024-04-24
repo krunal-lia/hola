@@ -19,7 +19,10 @@ docker-compose up
 ```
 
 ### Step 4:
-`go run worker/main.go`
+```
+cd ..
+go run worker/main.go
+```
 
 ### Step 4:
 `go run start/main.go`
